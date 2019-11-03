@@ -7,7 +7,7 @@ Instructions, softwares and files for demographic model selection through Approx
 1. Calculate summary statistics for the observed dataset
 2. Simulate 1 million genetic datasets for each demographic scenario to be tested.
 3. Calculate summary statistics for each simulated dataset in each demographic scenario.
-4. Use provided R script to implement model selection using abc package (Csillery et al., 2010)
+4. Use provided R script to implement model selection using abc package (Csillery et al., 2010). For more information, check [this vignette](https://cran.r-project.org/web/packages/abc/vignettes/abcvignette.pdf)
 
 ## Data provided
 
@@ -16,7 +16,7 @@ Instructions, softwares and files for demographic model selection through Approx
 * Summary statistics calculated for each scenario and each marker (file *simulations_arlsumstat_results.zip*)
 * Summary statistics calculated for each marker and the mean, for observed data (file *observed.zip*)
 * ssdefs file defining the summary statistics to be calculated by arlsumstat (file *ssdefs.txt*)
-* Script in R to perform the organization of the data outputted by arlsumstat, the calculation of means, the PCA pre-evaluation and the model selection in the abc package (file *script_abc.R*)
+* Script in R to perform the organization of the data outputted by arlsumstat, the calculation of means, the PCA pre-evaluation and the model selection in the abc package (file *script_abc.R*). More info [here](https://cran.r-project.org/web/packages/abc/vignettes/abcvignette.pdf).
 
 ## A few notes
 
