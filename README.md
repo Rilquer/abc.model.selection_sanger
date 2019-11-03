@@ -13,7 +13,7 @@ Instructions, softwares and files for demographic model selection through Approx
 
 * Arlsumstat files for Linux (as used in the manuscript) - file *arlsumstat_linux.zip*
 * Scripts for the simulations in fastsimcoal of the 7 scenarios tested in the manuscript, for the three molecular markers used (cytb, g3pdh and tgfb2) - file *scen_fsimcoal_scripts.zip*
-* Summary statistics calculated for each scenario and each marker (file *simulations_arlsumstat_results.zip*)
+* Summary statistics calculated for each scenario and each marker - file *simulations_arlsumstat_results.zip* stored in Dropbox (click [here]() to access)
 * Summary statistics calculated for each marker and the mean, for observed data (file *observed.zip*)
 * ssdefs file defining the summary statistics to be calculated by arlsumstat (file *ssdefs.txt*)
 * Script in R to perform the organization of the data outputted by arlsumstat, the calculation of means, the PCA pre-evaluation and the model selection in the abc package (file *script_abc.R*). More info [here](https://cran.r-project.org/web/packages/abc/vignettes/abcvignette.pdf).
